@@ -1,0 +1,7 @@
+{
+  "name": "AppHub",
+  "description": "A Google Play-style app store to discover, search, download, and install Android applications and games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
